@@ -1980,6 +1980,7 @@
 [0]11/18/16 15:20:56 3711457056: level NULL in log_details_va
 [0]11/18/16 15:24:35 3232061216: localIP address: 2130706433
 [0]11/18/16 15:24:35 3232061216: level NULL in log_details_va
+<<<<<<< HEAD
 [0]11/21/16 11:03:09 2427905824: localIP address: 2130706433
 [0]11/21/16 11:03:09 2427905824: level NULL in log_details_va
 [0]11/21/16 11:21:16 2465810208: localIP address: 2130706433
@@ -1992,3 +1993,5 @@
 [0]11/26/16 15:37:36 4236162848: level NULL in log_details_va
 [0]11/27/16 16:10:03 283236128: localIP address: 2130706433
 [0]11/27/16 16:10:03 283236128: level NULL in log_details_va
+=======
+>>>>>>> 6f96e07693f0174f334216ac721c860211c3dc7b

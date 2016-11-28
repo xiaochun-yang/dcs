@@ -70,7 +70,11 @@ case $BEAMLINE in
 #	start_dhs galil4
 #       start_dhs galil5
 #	start_dhs galil6
+<<<<<<< HEAD
 	start_dhs galil7
+=======
+#	start_dhs galil7
+>>>>>>> 6f96e07693f0174f334216ac721c860211c3dc7b
 	start_dhs galil8
 	start_dhs galil9
 	start_dhs galil10
